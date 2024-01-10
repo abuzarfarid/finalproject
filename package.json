@@ -1,0 +1,24 @@
+{
+  "name": "abuzar_final_project",
+  "version": "1.0.0",
+  "description": "Introducing a full-fledged eCommerce API solution, built using Node.js, is a one-stop for all your eCommerce needs. With a user-friendly interface and seamless integration, this API is designed to help you effortlessly manage your online store. From product management to payment processing, this API provides an all-in-one solution that will take your eCommerce business to the next level.",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+		"cors": "^2.8.5",
+		"crypto": "^1.0.1",
+		"dotenv": "^16.0.1",
+		"express": "^4.18.1",
+		"jsonwebtoken": "^9.0.2",
+		"mongoose": "^6.3.4",
+		"multer": "^1.4.4",
+		"nodemailer": "^6.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "abuzar farid",
+  "license": "ISC"
+}
